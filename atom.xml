@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-10T11:42:32.403Z</updated>
+  <updated>2021-01-25T10:08:30.048Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>短暂回归</title>
+    <link href="http://example.com/2021/01/25/210125/"/>
+    <id>http://example.com/2021/01/25/210125/</id>
+    <published>2021-01-25T09:47:47.000Z</published>
+    <updated>2021-01-25T10:08:30.048Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="我回来啦！"><a href="#我回来啦！" class="headerlink" title="我回来啦！"></a>我回来啦！</h1><p>​    紧张的八省联考终于结束了……那么，高三上学期的学习生活也即将迎来尾声。时光飞逝，短暂的休息之后即将迎来关键的高三下学期。但说是期末考试结束，也无法松懈，毕竟光上学就还需要上两星期……</p><p>总的来说，还是需要加油加油再加油！</p><p>​    嘶……写这篇的第一感想就是，自己做网页比把东西写进公众号简直方便不少……可以随便修改，随便发布……</p><p>放首歌吧。</p>    <div id="aplayer-ySyJWwda" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="001ZgD5U2uHBcf" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p>那么，下学期也请加油吧。</p><p>（我记得有什么事要说来的？）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2021年的更新</title>
@@ -463,31 +485,6 @@
     <summary type="html">
     
       2020/3/20  单曲推荐：《Flamingo》--米津玄師
-    
-    </summary>
-    
-    
-      <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
-    
-    
-      <category term="music" scheme="http://example.com/tags/music/"/>
-    
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020/3/19 单曲推荐</title>
-    <link href="http://example.com/2020/03/19/200319song/"/>
-    <id>http://example.com/2020/03/19/200319song/</id>
-    <published>2020-03-19T13:40:31.000Z</published>
-    <updated>2020-03-21T15:48:35.801Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="2020-3-19-单曲推荐：《Hot-Girl-Summer》–-Nicki-Minaj-amp-Megan-Thee-Stallion"><a href="#2020-3-19-单曲推荐：《Hot-Girl-Summer》–-Nicki-Minaj-amp-Megan-Thee-Stallion" class="headerlink" title="2020/3/19   单曲推荐：《Hot Girl Summer》– Nicki Minaj &amp; Megan Thee Stallion"></a>2020/3/19   单曲推荐：《Hot Girl Summer》– Nicki Minaj &amp; Megan Thee Stallion</h1>    <div id="aplayer-CYOInFgi" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="001UITRG1ryOEg" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p><img src="https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/77/f8/0c/77f80c54-a7f7-cdad-6a77-c8ef3cda3a38/source/1400x1400bb.jpg" alt="Hot Girl Summer单曲封面"></p>]]></content>
-    
-    <summary type="html">
-    
-      2020/3/19  单曲推荐：《Hot Girl Summer》--Nicki Minaj &amp; Megan Thee Stallion
     
     </summary>
     
