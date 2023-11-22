@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-22T10:33:40.986Z</updated>
+  <updated>2023-11-22T11:29:37.109Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2023/11/22/231122c4d/"/>
     <id>http://example.com/2023/11/22/231122c4d/</id>
     <published>2023-11-22T09:45:36.000Z</published>
-    <updated>2023-11-22T10:33:40.986Z</updated>
+    <updated>2023-11-22T11:29:37.109Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="C4DR24安装教程："><a href="#C4DR24安装教程：" class="headerlink" title="C4DR24安装教程："></a>C4DR24安装教程：</h1><p>资源包下载地址：<a href="https://yunzhongzhuan.com.publicdn.com/download/2751097/lxnE6o5f/C4D%E8%B5%84%E6%BA%90%E5%8C%85.zip">点这里</a>。其中包含C4DR24及Arnold插件，安装前请解压所有文件。</p><p>安装教程：<a href="https://mp.weixin.qq.com/s/wVpv9t8najSz2jS67n7dkQ">点这里</a></p><p>请注意，其中<code>c4dplugin.xdl64</code>文件复制到X:\…{安装目录}…\Maxon Cinema 4D R24\corelibs\ 目录下。</p><h1 id="Arnold安装教程："><a href="#Arnold安装教程：" class="headerlink" title="Arnold安装教程："></a>Arnold安装教程：</h1><p>运行<code>C4DtoA-4.0.3.2-win-R24.exe</code> 进行安装。</p><p>若C4D不是R24版本，<a href="https://gimago.cn/c4dtoa">点这里</a>下方下载对应版本。</p><p>安装过后，将所给<code>C4DtoA</code>文件夹整个复制到X:\…{安装目录}…\Maxon Cinema 4D R24\plugins\ 目录下进行覆盖。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="C4DR24安装教程："><a href="#C4DR24安装教程：" class="headerlink" title="C4DR24安装教程："></a>C4DR24安装教程：</h1><p>资源包下载地址：<a href="https://yunzhongzhuan.com.publicdn.com/download/2751097/lxnE6o5f/C4D_source_pack.zip">点这里</a>。其中包含C4DR24及Arnold插件，安装前请解压所有文件。</p><p>安装教程：<a href="https://mp.weixin.qq.com/s/wVpv9t8najSz2jS67n7dkQ">点这里</a></p><p>请注意，其中<code>c4dplugin.xdl64</code>文件复制到X:\…{安装目录}…\Maxon Cinema 4D R24\corelibs\ 目录下。</p><h1 id="Arnold安装教程："><a href="#Arnold安装教程：" class="headerlink" title="Arnold安装教程："></a>Arnold安装教程：</h1><p>运行<code>C4DtoA-4.0.3.2-win-R24.exe</code> 进行安装。</p><p>若C4D不是R24版本，<a href="https://gimago.cn/c4dtoa">点这里</a>下方下载对应版本。</p><p>安装过后，将所给<code>C4DtoA</code>文件夹整个复制到X:\…{安装目录}…\Maxon Cinema 4D R24\plugins\ 目录下进行覆盖。</p>]]></content>
     
     <summary type="html">
     
