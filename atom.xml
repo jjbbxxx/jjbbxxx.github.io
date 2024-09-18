@@ -3,14 +3,14 @@
   <title>GIMago</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
   <updated>2024-09-17T01:31:31.914Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>西</name>
+    <name>西西</name>
     
   </author>
   
@@ -25,11 +25,9 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="认识相机"><a href="#认识相机" class="headerlink" title="认识相机"></a>认识相机</h1><h2 id="数码相机的类型"><a href="#数码相机的类型" class="headerlink" title="数码相机的类型"></a>数码相机的类型</h2><h3 id="单反相机"><a href="#单反相机" class="headerlink" title="单反相机"></a>单反相机</h3><p>单镜头反光照相机。 最常见的相机类型，顾名思义， 只有一个镜头并且带有一个反光板的相机 。</p><h3 id="无反相机"><a href="#无反相机" class="headerlink" title="无反相机"></a>无反相机</h3><p>无反光镜照相机，我们常说的微单其实就是无反相机的一种。</p><p><img src="/otherimgs/20240412photo/5e1c17d9668803253.png_orig.png" alt="单反相机和无反相机光路图"></p><h3 id="双反相机和旁轴相机"><a href="#双反相机和旁轴相机" class="headerlink" title="双反相机和旁轴相机"></a>双反相机和旁轴相机</h3><p>双反相机全称为双镜头反光相机。一个镜头用来取景，一个镜头用来成像，主要是胶片时代的产物，现在已经不多见了。由于取景时只经过了一次平面镜的反射，所以双反看到的画面是左右相反的。</p><img src="/otherimgs/20240412photo/v2-fe7e9ec6f3bb63d162e6d8bed30c9005_b.jpg" alt="双反相机光路图" style="zoom:70%;"/><p><img src="/otherimgs/20240412photo/v2-f7112b3599168f98740eeb69362eeee8_720w.webp" alt="旁轴相机光路图"></p><p>旁轴取景式相机，由于取景光轴位于摄影镜头光轴旁边，而且彼此平行，因而取名“旁轴”相机。徕卡M系列就是最为著名的旁轴相机。</p><img src="/otherimgs/20240412photo/Cg-4q1XyX4aIZg-ZAAbvs30vxooAAMHGwLfLHYABu_L317.jpg" alt="徕卡M9相机" style="zoom:30%;"/><hr><h1 id="镜头"><a href="#镜头" class="headerlink" title="镜头"></a>镜头</h1><h2 id="镜头的分类"><a href="#镜头的分类" class="headerlink" title="镜头的分类"></a>镜头的分类</h2><h3 id="定焦镜头和变焦镜头"><a href="#定焦镜头和变焦镜头" class="headerlink" title="定焦镜头和变焦镜头"></a>定焦镜头和变焦镜头</h3><p><strong>变焦镜头</strong>指的就是可以推拉的镜头，它的焦距是可以变化的。变焦镜头一般用有两个环，分别是变焦环和对焦环。<br><strong>定焦镜头</strong>焦距是固定的。</p><h2 id="焦距"><a href="#焦距" class="headerlink" title="焦距"></a>焦距</h2><p>焦距就是平行光入射时从透镜光心到光聚集之焦点的距离。</p><h3 id="焦距与视角，成像的关系"><a href="#焦距与视角，成像的关系" class="headerlink" title="焦距与视角，成像的关系"></a>焦距与视角，成像的关系</h3><p>焦距越长，视角越窄，取景范围越小，物体成像越大</p><p><img src="/otherimgs/20240412photo/IMG_5661-1.jpg" alt="200mm"></p><p><img src="/otherimgs/20240412photo/IMG_7384-8.jpg" alt="200mm"></p><p>焦距越短，视角越广，取景范围越大，物体成像越小</p><p><img src="/otherimgs/20240412photo/IMG_7842-24.jpg" alt="15mm"></p><p><img src="/otherimgs/20240412photo/DSC00441-16.jpg" alt="28mm"></p><img src="/otherimgs/20240412photo/3afb7831dc611fec5a06af2d74d81be2.jpg" alt="焦距和视角的关系" style="zoom:80%;"/><hr><h1 id="画幅"><a href="#画幅" class="headerlink" title="画幅"></a>画幅</h1><h2 id="画幅分类"><a href="#画幅分类" class="headerlink" title="画幅分类"></a>画幅分类</h2><p>一般来说，镜头上标注的数字表示实际焦距。但是因为传感器有大有小，会对这些实际焦距取景范围有截取，造成拍摄的视角与实际焦距原本应该有的视角不相同。全画幅指的是36mm*24mm的传感器。</p><p><img src="/otherimgs/20240412photo/v2-40dad24d0480bda0909ad8873111e529_720w.webp" alt="常见的画幅"></p><h2 id="等效焦距"><a href="#等效焦距" class="headerlink" title="等效焦距"></a>等效焦距</h2><p><strong>等效焦距=实际焦距*焦距转换系数（焦距转换系数只与传感器大小有关）</strong></p><p>APS-C尺寸传感器的镜头转换系数是1.5（尼康、索尼、宾得、富士），或者1.6（佳能），实际焦距乘以1.5或者1.6就是他们镜头的等效焦距。M4/3的镜头转换系数是2，所有实际焦距乘以2就是等效焦距。</p><hr><h1 id="曝光三要素"><a href="#曝光三要素" class="headerlink" title="曝光三要素"></a>曝光三要素</h1><p><strong>曝光三要素</strong>指的是光圈大小、快门速度、感光度ISO</p><h2 id="光圈"><a href="#光圈" class="headerlink" title="光圈"></a>光圈</h2><p>光圈是位于镜头内部的小叶片相互重叠构成的光孔，调整其开闭程度可以调整图像感应器的受光量。</p><p><img src="/otherimgs/20240412photo/R-C.png" alt="光圈直观图"></p><p>光圈对画面有两个主要影响：进光量和景深</p><h3 id="进光量"><a href="#进光量" class="headerlink" title="进光量"></a>进光量</h3><p>通过调整光圈的开闭程度，可以调整图像感应器的受光量。光圈越大，进光量越多，照片就会越亮；光圈越小，进光量越少，照片就会越暗。</p><p><img src="/otherimgs/20240412photo/DSC01543.jpg" alt="快门速度、感光度一定，随着光圈变大，画面变亮"></p><h3 id="景深"><a href="#景深" class="headerlink" title="景深"></a>景深</h3><p>光圈越大，景深越浅，背景越模糊；光圈越小，景深越深，背景越清晰。</p><p>影响景深的因素：<strong>光圈，焦距，物距</strong></p><p>光圈越大，焦距越大，物距越小，景深越浅</p><p><img src="/otherimgs/20240412photo/R-C.gif" alt="光圈和景深的关系"></p><p><img src="/otherimgs/20240412photo/DSC01543-1.jpg" alt="曝光一定，随着光圈变大，景深变浅，虚化效果变明显"></p><h3 id="F值的意义"><a href="#F值的意义" class="headerlink" title="F值的意义"></a>F值的意义</h3><p>光圈系数，即F值即是用来来表征光圈的大小的参数。它等于镜头焦距f和通光孔径D之比。光通量与F值的平方成反比关系，F值越小，光通量越大。F值的 规律是后一个值正好是前一个数值的$\sqrt2$ 倍，所以，光圈调大一挡，光量减少2倍。光圈常用值为1.4、2、2.8、4、5.6、8、11、16、22等几个等级。</p><img src="/otherimgs/20240412photo/b9f6404c-2bc6-47c2-814e-77d47f028df4.png" alt="常用光圈值" style="" /><h2 id="快门"><a href="#快门" class="headerlink" title="快门"></a>快门</h2><p>快门是一种让光线在一段精确的时间里照射胶片或影像传感器的装置。快门的另一种含义是指相机的曝光时间长短，通常称为快门时间。</p><img src="/otherimgs/20240412photo/v2.jpg" alt="快门" style="zoom:10%;"/><p><img src="/otherimgs/20240412photo/DSC015431.jpg" alt="光圈大小、感光度一定，随着快门速度变低，画面变亮"></p><p><img src="/otherimgs/20240412photo/DSC00399-13.jpg" alt="1/80快门"></p><p><img src="/otherimgs/20240412photo/DSC00626-1.jpg" alt="1/800快门"></p><p><img src="/otherimgs/20240412photo/IMG_20240305_145752.jpg" alt="1/1242快门（手机摄影）"></p><p><img src="/otherimgs/20240412photo/DJI_0166.jpg" alt="2&quot;快门（航拍摄影）"></p><p><img src="/otherimgs/20240412photo/Image_1712901872031.jpg" alt="遗失的照片，快门速度未知（手机摄影）"></p><h2 id="ISO"><a href="#ISO" class="headerlink" title="ISO"></a>ISO</h2><p>感光度（ISO）是指相机对光线的敏感程度。ISO值越大，感光度越高，拍出来的照片就会越亮，反之就会越暗。但是ISO过高会使照片噪点也随之变高。</p><p><img src="/otherimgs/20240412photo/DSC01558.jpg" alt="光圈大小、快门速度一定，随着感光度的提高，画面变亮"></p><p><img src="/otherimgs/20240412photo/DSC015581.jpg" alt="曝光一定，随着感光度的提高，画面噪点变多"></p><hr><h1 id="构图"><a href="#构图" class="headerlink" title="构图"></a>构图</h1><h2 id="三分法和九宫格法"><a href="#三分法和九宫格法" class="headerlink" title="三分法和九宫格法"></a>三分法和九宫格法</h2><p><img src="/otherimgs/20240412photo/IMG_0291-23.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/IMG_7812-11.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/IMG_7848-26.jpg" alt=""></p><h2 id="对称式构图"><a href="#对称式构图" class="headerlink" title="对称式构图"></a>对称式构图</h2><p><img src="/otherimgs/20240412photo/IMG_7827-17.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/IMG_7467-18.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/IMG_8420-2.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/IMG_9312-10.jpg" alt=""></p><h2 id="框架式"><a href="#框架式" class="headerlink" title="框架式"></a>框架式</h2><p><img src="/otherimgs/20240412photo/IMG_0272-20.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/IMG_7269-6.jpg" alt=""></p><h2 id="平衡式"><a href="#平衡式" class="headerlink" title="平衡式"></a>平衡式</h2><p><img src="/otherimgs/20240412photo/IMG_9377-2.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/IMG_8709-12.jpg" alt=""></p><h2 id="引导线式"><a href="#引导线式" class="headerlink" title="引导线式"></a>引导线式</h2><p><img src="/otherimgs/20240412photo/IMG_9401-1.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/IMG_7263-3.jpg" alt=""></p><p><img src="/otherimgs/20240412photo/DSC00445-17.jpg" alt=""></p><hr><h1 id="祝大家早日成为老法师！"><a href="#祝大家早日成为老法师！" class="headerlink" title="祝大家早日成为老法师！"></a><strong>祝大家早日成为老法师！</strong></h1>]]></content>
     
-    <summary type="html">
     
-      2024.4.13 摄影例会第一次
+    <summary type="html">2024.4.13 摄影例会第一次</summary>
     
-    </summary>
     
     
     
@@ -44,20 +42,18 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><meta name="referrer" content="no-referrer"/><h1 id="C4DR24安装教程："><a href="#C4DR24安装教程：" class="headerlink" title="C4DR24安装教程："></a>C4DR24安装教程：</h1><p>资源包下载地址：<a href="https://yunzhongzhuan.com.publicdn.com/download/2751097/lxnE6o5f/C4D_source_pack.zip">点这里</a>。其中包含C4DR24及Arnold插件，安装前请解压所有文件。</p><p>安装教程：<a href="https://mp.weixin.qq.com/s/wVpv9t8najSz2jS67n7dkQ">点这里</a></p><p>请注意，其中<code>c4dplugin.xdl64</code>文件复制到X:\…{安装目录}…\Maxon Cinema 4D R24\corelibs\ 目录下。</p><h1 id="Arnold安装教程："><a href="#Arnold安装教程：" class="headerlink" title="Arnold安装教程："></a>Arnold安装教程：</h1><p>运行<code>C4DtoA-4.0.3.2-win-R24.exe</code> 进行安装。</p><p>若C4D不是R24版本，<a href="https://gimago.cn/c4dtoa">点这里</a>去下载对应版本。</p><p>安装过后，将所给<code>C4DtoA</code>文件夹整个复制到X:\…{安装目录}…\Maxon Cinema 4D R24\plugins\ 目录下进行覆盖。</p><div id="aplayer-fZNOTbzy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[00:00.00] 作词 : Lana Del Rey/Rick Nowels[00:01.00] 作曲 : Lana Del Rey/Rick Nowels[00:16.89] Kiss me hard before you go[00:20.98][01:12.53][02:21.19][03:33.36]Summertime sadness[00:25.31][01:17.50][02:25.80][03:39.79]I just wanted you to know[00:29.70][01:21.13][02:29.75][03:44.14]That baby, you're the best[00:32.99]I got my red dress on tonight[00:37.38]Dancin' in the dark in the pale moonlight[00:41.54]Done my hair up real big, beauty queen style[00:45.76]High heels off, I'm feelin' alive[00:51.49][01:59.97]Oh my god, I feel it in the air[00:54.79][02:03.30]Telephone wires above[00:57.99][02:05.91]Are sizzlin' like a snare[00:59.69][02:07.97]Honey I'm on fire, I feel it everywhere[01:03.19][02:12.19]Nothin' scares me anymore[01:07.39][02:15.35](One, two, three, four)[01:08.36][02:17.19][03:29.23]Kiss me hard before you go[01:24.94][02:34.80][03:12.65][03:48.77]I got that summertime, summertime sadness[01:30.04][02:38.78][03:17.22][03:53.07]Su-su-summertime, summertime sadness[01:34.40][02:43.09][03:21.58][03:57.48]Got that summertime, summertime sadness[01:42.90]I'm feelin' electric tonight[01:46.10]Cruisin' down the coast, goin' about 99[01:50.04]Got my bad baby by my heavenly side[01:54.21]I know if I go, I'll die happy tonight[02:52.50]Think I'll miss you forever[02:55.00]Like the stars miss the sun in the morning sky[03:00.35]Later's better than never[03:03.61]Even if you're gone I'm gonna drive</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer-fZNOTbzy"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Summrtime Sadness",author: "Lana Del Rey",url: "/music/Summertime Sadness-Lana Del Rey.flac",pic: "/otherimgs/Born to Die.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
-    </summary>
     
     
-      <category term="软件推荐" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <category term="软件推荐" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -70,14 +66,12 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="以红色为先，我们在路上"><a href="#以红色为先，我们在路上" class="headerlink" title="以红色为先，我们在路上"></a>以红色为先，我们在路上</h1><p>红色文化具有独特魅力和跨越时空的价值。红色文化不单是抽象的载体，更蕴含着时代精神与价值追求。当前，全党正深入开展党史学习教育，探讨如何传承红色文化具有重要的现实意义与理论价值。习近平总书记在党史学习教育动员大会上特别强调，“抓好青少年学习教育，让红色基因、革命薪火代代传承。”红色文化蕴藏着党史学习教育的时代价值，红色文化资源是党史学习教育的有效载体，每一件革命文物、每一处战斗遗迹、每一位革命英烈，都是鲜活的革命历史教材，都折射着中国共产党人的坚定信念、崇高理想、爱国情操。</p><p>本次实践我们大连理工大学“传承红色基因，争当科创人才”实践团依习总书记在2021年3月在福建考察时的路线，深入学习红色理论知识，感受红色文化，学习党史，从红色资源中汲取精神滋养和前进力量，赓续红色血脉。</p><p><img src="https://z1.ax1x.com/2023/09/15/pPWGZan.jpg" alt=""></p><p>在7月25日，本实践团前往大连博物馆进行参观学习与宣传。在博物馆内，我们按照展览区域的顺序，参观大连市的历史发展、抗日战争、解放战争、社会主义建设等主题展览，并认真观看、记录、思考和讨论展品和文字介绍。我们重点关注大连市的革命先烈们的英雄事迹和崇高精神，感受他们为国家和人民的奉献和牺牲。回到学校后，我们进行了一次总结会议，由带队老师和队长对本次活动进行评价和反馈。</p><p><img src="https://z1.ax1x.com/2023/09/15/pPWGnP0.jpg" alt=""></p><p>在7月31日，实践队队长赵淳皓同学在返回上海后，带队前往上海市测绘院，上海电器科学研究所有限公司，上海市地震局进行参观，科普游学与宣传活动，感受红色文化，宣传红色知识，并收到了来自相关单位的感谢信。</p><p><img src="https://z1.ax1x.com/2023/09/15/pPWGe5q.jpg" alt=""></p><p><img src="https://z1.ax1x.com/2023/09/15/pPWGK2T.jpg" alt=""></p><p><img src="https://z1.ax1x.com/2023/09/15/pPWGuGV.png" alt=""></p><p>本次实践组织目的旨在了解大连的革命历史和革命先辈的事迹，相关文化、艺术和文学等领域的知识，在实践中感悟历史，领略革命文化的魅力；学习革命先烈，激发青年大学生的爱党之情；了解红色历史，缅怀革命先烈，继承和发扬老一辈革命家一切从实际出来，面对困难，奋勇直前的精神，不断增强中国特色社会主义的道路自信、理论自信、制度自信、文化自信，勇于进行具有许多新的历史特点的伟大斗争，坚决战胜前进道路上的各种艰难险阻。</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
-    </summary>
     
     
     
@@ -92,17 +86,15 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="Remote-Desktop使用教程"><a href="#Remote-Desktop使用教程" class="headerlink" title="Remote Desktop使用教程"></a>Remote Desktop使用教程</h1><h2 id="使用前的准备"><a href="#使用前的准备" class="headerlink" title="使用前的准备"></a>使用前的准备</h2><ul><li><input checked="" disabled="" type="checkbox"> Windows 专业版系统</li><li><input checked="" disabled="" type="checkbox"> Remote Desktop客户端</li></ul><h2 id="确认你的系统可以开启远程桌面"><a href="#确认你的系统可以开启远程桌面" class="headerlink" title="确认你的系统可以开启远程桌面"></a>确认你的系统可以开启远程桌面</h2><img src="https://s1.ax1x.com/2023/04/06/ppTphOP.png" style="zoom:80%;" /><p>以上为Windows对运行远程桌面系统的要求。</p><h2 id="开启远程桌面功能"><a href="#开启远程桌面功能" class="headerlink" title="开启远程桌面功能"></a>开启远程桌面功能</h2><p>如果你的电脑是家庭版，请升级至专业版并进行激活后继续。</p><p>所谓的“升级至专业版”的步骤也请自行探索～🥰</p><p>进入设置－系统－远程桌面并打开,如图所示：</p><p><img src="https://s1.ax1x.com/2023/04/06/ppTpXyq.png" alt=""></p><h2 id="在客户端下载Remote-Desktop"><a href="#在客户端下载Remote-Desktop" class="headerlink" title="在客户端下载Remote Desktop"></a>在客户端下载Remote Desktop</h2><p>这里提供安卓安装包<a href="https://gimago.cn/download/com.microsoft.rdc.androidx.apk">下载</a> :-D</p><img src="https://s1.ax1x.com/2023/04/07/ppT3gQ1.jpg" style="zoom: 25%;" /><p>进入后在右上角可以添加主机，也可以搜索局域网中可搜索到的主机列表。</p>]]></content>
     
-    <summary type="html">
     
-      Remote Desktop使用教程
-    
-    </summary>
+    <summary type="html">Remote Desktop使用教程</summary>
     
     
-      <category term="软件推荐" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="软件推荐" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -115,15 +107,13 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="小回归"><a href="#小回归" class="headerlink" title="小回归~"></a>小回归~</h1><p><del>好消息！好消息！</del> 今天起可能增加更新频率～</p><p>原因主要有以下二点：</p><h2 id="使用语言模型进行写作"><a href="#使用语言模型进行写作" class="headerlink" title="使用语言模型进行写作"></a>使用语言模型进行写作</h2><p>今后的大部分内容可能由Bing写作完成。例子如下：</p><blockquote><p>亲爱的读者们，你们好！</p><p>我知道你们一定很想念我，因为我已经有一段时间没有更新博客了。其实，我并没有放弃写作，只是在寻找一个更好的工具来帮助我创作更高质量的内容。今天，我终于找到了这个工具，它就是新必应（New Bing）。</p><p>新必应是微软推出的一款全新的、基于人工智能的搜索引擎和浏览器，它可以让你用自然语言提问，并得到完整的答案。它还可以帮助你生成各种类型的文本，比如博客文章、诗歌、歌词、代码等等。你只需要输入一些关键词，新必应就会为你创作出符合你要求的内容。</p><p>我已经申请并使用了新必应，它真的让我感到惊喜。它不仅可以提供我所需要的信息，还可以给我灵感和建议，让我写作更加流畅和有趣。我觉得新必应就像我的写作伙伴，我们一起探索、学习和创造。</p><p>所以，从今天开始，我将使用新必应来写我的博客文章。我相信这样会让我的博客更加丰富和有价值。当然，我也会保留我的个人风格和观点，不会完全依赖新必应。毕竟，写作是一种表达自己的方式，而不是复制别人的东西。</p><p>如果你也想尝试新必应，你可以点击这里了解更多详情，并申请加入预览版。希望你也能享受新必应带来的乐趣和便利。</p><p>谢谢你们一直以来的支持和关注，我会继续努力更新我的博客，并与你们分享我的想法和感受。期待你们的评论和反馈！</p><p>再见！</p></blockquote><p>是的，的确很怪，但是今后可能会作为辅助工具来进行一个创作。这将省去我许多时间。</p><p>至于New Bing的申请需要魔法，就不详细介绍了。</p><h2 id="使用Remote-Desktop在校园各处访问电脑"><a href="#使用Remote-Desktop在校园各处访问电脑" class="headerlink" title="使用Remote Desktop在校园各处访问电脑"></a>使用Remote Desktop在校园各处访问电脑</h2><p>网站的update需要使用git以及Hexo的本地渲染页面。所以我不得不使用电脑来进行写作。然而我的可怜的只有48Wh的笔记本在断电之后几乎不能用几分钟，充电器和笔记本本身的重量拿来拿去又很费劲。</p><p>所以，今天尝试使用Remote Desktop来通过移动设备访问电脑。稍后新开一个页面可能会给出相应的教程。</p><p>访问速率真的很快，而且流量消耗极小，这对我的校园网流量很是友好。</p><p>今天的歌曲就不自动播放啦，大家晚安～❤️</p>    <div id="aplayer-qgSYkACq" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="002iwUwJ12IC5T" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><h1 id="写在后面"><a href="#写在后面" class="headerlink" title="写在后面"></a>写在后面</h1><p>写完了我才发现这竟然是2023年我的第一篇推文，我明明记得我新年以来是发过一片推文的，怎会如此。</p><p>那么，在这里同祝新年好与兔年吉祥！</p>]]></content>
     
-    <summary type="html">
     
-      小回归～
-    
-    </summary>
+    <summary type="html">小回归～</summary>
     
     
     
-      <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -136,19 +126,17 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="22年年末的更新-碎碎念"><a href="#22年年末的更新-碎碎念" class="headerlink" title="22年年末的更新-碎碎念"></a>22年年末的更新-碎碎念</h1><p>我又回来了。。。</p>    <div id="aplayer-jiGEsNzi" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="003ebMYY2PGmn6" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><h2 id="前面的话"><a href="#前面的话" class="headerlink" title="前面的话"></a>前面的话</h2><p>遥想上一次更新，好像还是上次（</p><p>今年1月17日进行了新年更新，没想到下一次更新就是年末更新了。当天似乎依稀记得还要分享MyRadio来着。。然而记得当时git坏掉了，于是文章写了一半作罢。git坏掉并不能作为本网站明目张胆摆烂一整年的理由，MyRadio的分享将于本文章稍后介绍。</p><h2 id="最近的事"><a href="#最近的事" class="headerlink" title="最近的事"></a>最近的事</h2><p>最近的事要说回那个2019年。</p><p>要不是新冠疫情爆发，2020年的我也不会坐在家上网课，更不会在2020年初 <del>忙里偷闲</del> 闲的没事搞这么一个博客性质的小网站来。快三年的时间过去了，由于还是在上学的缘故，很少更新。但回望这三年的为数不多的推文，能够看出一些时光的变迁，也能看出曾经喜欢的一些歌曲啊，发生在身边的一些事啊……还是会很感慨。</p><p>这一年来发生的事挺多的。从大一升学到大二，暑假被封在家，家乡首次出现病例，11月才返校……</p><p>从2019年12月8日开始爆发，到2022年12月7日新十条出台全面放开，刚好三年整。</p><img src="https://s1.ax1x.com/2022/12/16/zH9EJs.jpg" alt="朋友圈留念" style="zoom:25%;" /><p>而如今放开以后，感觉形势却越发严峻。</p><p>从学校宣布执行政策，放开校园那一个下午起，大家就感受到了新冠的来势汹汹。于是只好匆匆订票回家，准备参加线上考试。大家或多或少都出现了轻重不一的症状，最近都不太好过。</p><p><img src="https://s1.ax1x.com/2022/12/16/zH9Wm8.jpg" alt="仓皇离开了大连"></p><p>幸亏我还跑得快呢，在学校的小伙伴们情况还要更差劲一些。。。大家都要早日康复哇！</p><h2 id="一些嘱咐"><a href="#一些嘱咐" class="headerlink" title="一些嘱咐"></a>一些嘱咐</h2><p>由于我回来那天中午我妈感受到了症状，于是我爸把我接到我大姨家了。</p><p>目前我还没敢回家，因为我爸我妈症状十分明显……</p><p>在这里要提醒大家出门一定记得戴N95口罩，普通的医用口罩还是放一放。</p><p>另外，一定不能当成普通感冒症状吃药治疗，可以根据正规新闻媒体渠道推荐的一些治疗方案自行解决。</p><p>有些同学还是持“现在的新冠就一普通感冒” “反正迟早要得，随便摆烂吧”这样或那样的想法，因为他们看到的身边人的病例可能不是很严重。</p><p>但是人和人的体质是不同的，病例和病例感染的毒株也可能不尽相同。所以还是希望大家保护好自己，能别阳就别阳。</p><h2 id="其他的话"><a href="#其他的话" class="headerlink" title="其他的话"></a>其他的话</h2><p>突然不知道写些什么了。面对这学期的考试还是很迷茫。</p><p>最近压力还是很大，又是线上考试，最近事务又多。。。真的让人很烦心。</p><p>这样一来下一次更新又不知道是什么时候了啊……也许是下个新年了。</p><p>话说公众号更新也不知道是多少年以前了……因为公众号写文章很麻烦，限制又多。虽然公众号方便大家看，但我仍不喜欢用公众号写作。</p><p>就到这里吧。</p><h1 id="软件分享·MyRadio"><a href="#软件分享·MyRadio" class="headerlink" title="软件分享·MyRadio"></a>软件分享·MyRadio</h1><p>MyRadio 是一款收听广播的应用，让您收听来自世界各地的50000多个网络广播。 MyRadio 可帮助您收听各种网络广播电台，提供多种音乐类型，例如古典，摇滚，流行，器乐，嘻哈，新闻，喜剧，脱口秀，音乐会和其他节目。</p><p>使用 MyRadio 可以免费收听所有免费的FM广播电台和线上广播！从此以后，随时随地用手机听广播。</p><p>靠着这个广播app，我已经 结识了许多时下热门歌曲和流行歌手，Glass Animals就是其中之一！</p><p>利用定时关闭功能，经常晚上睡觉听英语新闻，可给劲儿了。</p><p><del>催眠效果plus。</del></p><h2 id="特色功能："><a href="#特色功能：" class="headerlink" title="特色功能："></a>特色功能：</h2><ul><li>电台：我们收集的电台资料库包括世界各地的50000+个FM广播电台。</li><li>探索：按语言，类型和国家搜索您喜欢的广播电台。</li><li>收藏夹：保存您喜欢的收音机。随时随地收听广播。</li><li>闹钟：用您喜欢的FM电台或网络电台唤醒您的早晨。</li><li>计时器：设定好您想收听的时间段，时间到了自动关闭收音机。</li><li>共享：通过社交网络，电子邮件与您的朋友共享实时广播。</li></ul><h3 id="快速轻松地找到广播电台"><a href="#快速轻松地找到广播电台" class="headerlink" title="快速轻松地找到广播电台"></a><strong>快速轻松地找到广播电台</strong></h3><p>我们提供了多种方法来快速找到您想收听的电台。根据您的收听历史记录访​​问最近的列表。国家列表上带有国旗，方便查找。您可以选择您想的国家/地区，收听自己喜欢的电台。</p><h3 id="使用定时器安心进入睡眠状态"><a href="#使用定时器安心进入睡眠状态" class="headerlink" title="使用定时器安心进入睡眠状态"></a><strong>使用定时器安心进入睡眠状态</strong></h3><p>上床睡觉时听听您喜欢的电台。在应用中设置关闭时间，设置后当时间到达，将自动关闭播放中的电台。</p><h3 id="闹钟模式：使用喜欢的电台当作闹钟"><a href="#闹钟模式：使用喜欢的电台当作闹钟" class="headerlink" title="闹钟模式：使用喜欢的电台当作闹钟"></a><strong>闹钟模式：使用喜欢的电台当作闹钟</strong></h3><p>为您喜欢的电台设定闹钟。应用会在您设定的闹钟时间唤醒您，并自动调频到您设定好的电台。</p><h3 id="通过“探索和搜索”选择您想听的内容。"><a href="#通过“探索和搜索”选择您想听的内容。" class="headerlink" title="通过“探索和搜索”选择您想听的内容。"></a><strong>通过“探索和搜索”选择您想听的内容。</strong></h3><p>支持许多种类：新闻/谈话，体育，热门40，摇滚，爵士，古典，迪斯科，金属，怀旧，70年代音乐，80年代音乐，90年代音乐，00年代音乐，经典流行，乡村，灵魂乐，R＆B，嘻哈，民歌……</p><h2 id="更新内容如下："><a href="#更新内容如下：" class="headerlink" title="更新内容如下："></a>更新内容如下：</h2><ul><li>提供 50000+的广播电台</li><li>快速轻松地找到各种类型的电台</li><li>一键录音，随时纪录精彩内容</li><li>设定自动关闭来帮助您入眠</li></ul><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><img src="https://s1.ax1x.com/2022/12/16/zHiOnP.jpg" style="zoom:25%;" /><img src="https://s1.ax1x.com/2022/12/16/zHij78.jpg" style="zoom:25%;" /><img src="https://s1.ax1x.com/2022/12/16/zHiX0f.jpg" style="zoom:25%;" /><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.yunzhongzhuan.com/#sharefile=mMLzmZ1z_115371">点♥我♥下♥载</a></p><p>乐</p><p>晚安。</p>]]></content>
     
-    <summary type="html">
     
-      22年年末の碎碎念
-    
-    </summary>
+    <summary type="html">22年年末の碎碎念</summary>
     
     
-      <category term="软件推荐" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="软件推荐" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
     
-      <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -161,21 +149,19 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="新年快乐！"><a href="#新年快乐！" class="headerlink" title="新年快乐！"></a><strong>新年快乐！</strong></h1><hr>    <div id="aplayer-NKcCROlC" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="003hGfob0C0Nxk" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p>又是一年新春到！</p><p>转眼间，时光的车轮已经来到了2022年。疫情似乎让时间变得很快，2020年的春节似乎还历历在目，而如今已经是腊月十五，还有13天就到了虎年春节。</p><p>2022，让我们一起向未来！祝福国泰民安！</p><p><img src="https://pic.vjshi.com/2021-06-01/40a389a74bbb03703b66fd30e1b7784c/online/da4e22acc0af1968feb4736eecfcb2ea.jpg?x-oss-process=style/resize_w_720" alt=""></p><p>今天带来的是前几天偶然在MyRadio电台听到的《Heat Waves》，由英国迷幻流行乐队Glass Animals演唱，UK排行榜25名。</p><img src="https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/11/25/e8/1125e8ad-78c9-9afa-b718-c03bc2439e66/source/3000x3000bb.jpg" alt="《Heat Waves单曲封面》" style="zoom:50%;" />]]></content>
     
-    <summary type="html">
     
-      2022/1/17单曲推荐：《Heat Waves》-- Glass Animals
-    
-    </summary>
+    <summary type="html">2022/1/17单曲推荐：《Heat Waves》-- Glass Animals</summary>
     
     
-      <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="music" scheme="http://example.com/tags/music/"/>
+    <category term="music" scheme="http://example.com/tags/music/"/>
     
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
-      <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -188,15 +174,13 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="学习通刷课教程（已过期"><a href="#学习通刷课教程（已过期" class="headerlink" title="学习通刷课教程（已过期"></a>学习通刷课教程（已过期</h1><div class="note danger flat"><p><strong>该教程所使用脚本已于2022年11月失效，但仍可以按照步骤自行查找与时俱进的可用脚本。</strong></p></div><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>期末将至，为了同学们能有更多的时间留给期末复习，<del>同时为了增长网站阅读量</del>特此写一篇没什么大用的教程。</p><p>或许很多同学本来就会用，但总会有不会用的同学嘛！嘿嘿。</p><h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><p>电脑（对，没有电脑的同学可以退出了。<del>反正阅读量也涨了</del>）</p><p>Chrome浏览器（<strong>其他浏览器也可</strong>，只要是能装扩展的例如微软自带的Microsoft Edge及Firefox等都可以）（本篇文章以Chrome举例）</p><p><strong><u>划重点！！！！！几乎什么浏览器都能用这个方法！！win10、win11自带的Edge浏览器也是可以的而且非常方便！！！不是软件！！！</u></strong></p><p>Tampermonkey扩展，没有的同学可前往<a href="https://www.tampermonkey.net/">Tampermonkey官网</a>自行安装。</p><h2 id="Tampermonkey的安装步骤"><a href="#Tampermonkey的安装步骤" class="headerlink" title="Tampermonkey的安装步骤"></a>Tampermonkey的安装步骤</h2><p>进入<a href="https://www.tampermonkey.net/">Tampermonkey官网</a>，<strong>其他</strong>浏览器在上方选择对应的浏览器名称并点击下载左边的稳定版即可逐步安装。</p><p><img src="https://z3.ax1x.com/2021/12/03/oacAw8.png" alt=""></p><p>安装好的同学可以直接跳至<a href="#在Tampermonkey中添加脚本">下一步</a></p><p>由于<strong>某些原因</strong>，Chrome浏览器安装相对复杂。</p><p>下面是<strong>Chrome浏览器</strong>的安装教程</p><ol><li><a href="https://www.yunzhongzhuan.com/#sharefile=IEQ8zmnq_20708">点击此处</a>下载Tampermonkey扩展的压缩包，并解压至某处。</li><li>在Chrome右上角<u>三个点-更多工具</u>中找到“扩展程序”并点击</li></ol><p><img src="https://z3.ax1x.com/2021/12/03/oacPyt.png" alt="右上角三个点-更多工具-扩展程序"></p><p>在弹出的扩展程序界面选择左上角的“<u>加载已解压的扩展程序</u>”并点击</p><p><img src="https://z3.ax1x.com/2021/12/03/oacCQI.png" alt=""></p><p>在弹出的窗口选择你刚刚解压的位置，并点击确定，如弹出Tampermonkey官网即表示安装完毕。</p><p>恭喜。可以进入下一步了。</p><h2 id="在Tampermonkey中添加脚本"><a href="#在Tampermonkey中添加脚本" class="headerlink" title="在Tampermonkey中添加脚本"></a>在Tampermonkey中添加脚本</h2><p>点击下面的链接，在弹出的窗口点击“安装”即可。</p><p><a href="https://greasyfork.org/scripts/435357-%E8%B6%85%E6%98%9F%E5%AD%A6%E4%B9%A0%E9%80%9A%E5%B0%8F%E5%8A%A9%E6%89%8B-%E7%AB%A0%E8%8A%82-%E4%BD%9C%E4%B8%9A-%E8%A7%86%E9%A2%91-%E6%94%AF%E6%8C%81%E6%96%B0%E7%89%88-%E4%BF%AE%E5%A4%8D%E5%80%8D%E9%80%9F-%E4%BC%98%E5%8C%96%E8%AF%BE%E7%A8%8B%E5%88%87%E6%8D%A2-%E6%94%AF%E6%8C%81%E5%9B%BE%E7%89%87%E9%A2%98-%E6%94%B6%E5%BD%95%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%A7%91%E7%9B%AE/code/%E8%B6%85%E6%98%9F%E5%AD%A6%E4%B9%A0%E9%80%9A%E5%B0%8F%E5%8A%A9%E6%89%8B%5B%E7%AB%A0%E8%8A%82%E3%80%81%E4%BD%9C%E4%B8%9A%E3%80%81%E8%A7%86%E9%A2%91%5D%20%E6%94%AF%E6%8C%81%E6%96%B0%E7%89%88%7C%E4%BF%AE%E5%A4%8D%E5%80%8D%E9%80%9F%7C%E4%BC%98%E5%8C%96%E8%AF%BE%E7%A8%8B%E5%88%87%E6%8D%A2%7C%E6%94%AF%E6%8C%81%E5%9B%BE%E7%89%87%E9%A2%98%7C%E6%94%B6%E5%BD%95%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%A7%91%E7%9B%AE.user.js">点我安装扩展</a></p><p>刷新或重新进入所有学习通课程界面，大家可以高兴地发现视频不仅可以倍速播放，还可以拖动进度条调整。播放完一个视频还会自动跳到下一章。听懂掌声！</p><h1 id="扩展的进阶使用方法"><a href="#扩展的进阶使用方法" class="headerlink" title="扩展的进阶使用方法"></a>扩展的进阶使用方法</h1><p>点击浏览器右上方的Tampermonkey图标，显示该页面内正在运行的脚本（所以，你要<strong>在某个学习通课程页面内</strong>做这件事）。点击右边的<u>小箭头-编辑</u>，进入编辑页面。</p><p><img src="https://z3.ax1x.com/2021/12/03/oackef.png" alt=""></p><p>将页面下拉，你可以看到该脚本的设置部分。</p><p><img src="https://z3.ax1x.com/2021/12/03/oaciOP.png" alt=""></p><p>根据每行右侧的注释，可以进行功能设置。这个脚本提供了丰富的功能，如选择默认倍速及音量，复习模式，自动切换……如果是水课它可以帮你自动跳过整个视频而直接完成任务点……更多的<strong>隐藏功能</strong>等你去发现。仔细阅读注释，相信这个设置页面<strong>对所有人都是很友好的</strong>。</p><p>这个教程大概就到这里了。如果有任何步骤遇到了问题，请在下方留言，我会第一时间收到并处理。</p><p>希望您玩的开心。</p><p>也可以探索关于Tampermonkey的各种用法。</p><p>网络世界的乐趣是无穷的。</p><h1 id="写在后面的话"><a href="#写在后面的话" class="headerlink" title="写在后面的话"></a>写在后面的话</h1><p>可算出了一篇正经内容（你们所谓的）（或者你们觉得这个也不算）</p><p>那么，如果这篇文章<u>好评如潮</u>我将会持续推出好多有趣的小tips</p><p>感谢您的喜欢，欢迎在评论区留言。如果这篇文章真的可以帮到您<del>摆烂</del>，我将很开心。</p>]]></content>
     
-    <summary type="html">
     
-      有趣的小知识（已过期
-    
-    </summary>
+    <summary type="html">有趣的小知识（已过期</summary>
     
     
     
-      <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -209,14 +193,12 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="2021-11-16-深夜更新日志"><a href="#2021-11-16-深夜更新日志" class="headerlink" title="2021.11.16 深夜更新日志"></a>2021.11.16 深夜更新日志</h1><p>丰富了评论区功能。</p><p>现在在网站中评论，我会立刻收到评论提醒。</p><p>如果评论者在评论时留下邮箱，那么评论者被回复时会收到邮件提醒。</p><p>如果在昵称处填入QQ号，那么将自动识别昵称与邮箱。</p><p>由于电脑马上就没电了，更新的十分草率。晚安。</p><p>快来这篇文章底部评论试一试吧！别忘了留下你的邮箱哦~ 我会回复你的！</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
-    </summary>
     
     
     
@@ -231,14 +213,12 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="正式回归"><a href="#正式回归" class="headerlink" title="正式回归"></a><strong>正式回归</strong></h1><p>​        老规矩，先听歌，再听故事吧~</p>    <div id="aplayer-skmWxsrE" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="0022GkjA1Cl6kx" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>​        高考之后，一直想要重新拾起这个小网站的计划，但由于好久没有打理，一些框架和内容已经过时失效了，在升级焕新的时候又出现了种种问题，最终高考后狂欢的氛围还是战胜了静下心坐下来维持网站的想法。暑假里每一天都很忙，给学生上课，出去和同学告别，吃饭，逛街……</p><p><img src="https://z3.ax1x.com/2021/11/13/Iy6YB8.jpg" alt="假期生活"></p><h2 id="步入大学"><a href="#步入大学" class="headerlink" title="步入大学"></a>步入大学</h2><p>三个月匆匆过去，迎来了我的大学生活。刚上大学的我们面对一切事物都是那么的好奇，学校里面对大一新生的活动数不胜数，各种社团、团学活动让人忙的团团转。虽然每一天都忙忙碌碌，但每一天都是充实而快乐的。</p><div class="gallery-container" data-type="data" data-button="">      <div class="gallery-data">[{"url":"https://z3.ax1x.com/2021/11/13/Iygz0f.jpg","alt":""},{"url":"https://z3.ax1x.com/2021/11/13/Iy29AS.jpg","alt":""},{"url":"https://z3.ax1x.com/2021/11/13/IygxnP.jpg","alt":""},{"url":"https://z3.ax1x.com/2021/11/13/Iy2Ctg.jpg","alt":""},{"url":"https://z3.ax1x.com/2021/11/13/Iy2PhQ.jpg","alt":""},{"url":"https://z3.ax1x.com/2021/11/13/Iy2k1s.jpg","alt":""}]</div>      <div class="gallery-items">      </div>    </div><p>​        经过了两个月的洗礼，就在我们觉得将要适应大学生活的时候，疫情突然伴随着今冬第一场大雪呼啸而来。很快的，因为天气原因的网课与因为疫情原因的网课顺势连在了一起。就在我写下这篇文章的日子里，大连又新增了几十例确诊，而且距离我们并不很远。很多朋友和老师都送来了关心，我们在这里暂时一切都好，请不要担心……</p><p>虽然网课生活过的十分愉快，但疫情是我们谁都不愿意经历的痛苦，希望担惊受怕的日子可以早日过去，相信我们一定能共同度过这段艰难的时光！</p><h2 id="重拾"><a href="#重拾" class="headerlink" title="重拾"></a>重拾</h2><p>最近向家里要来了之前电脑上的网站文件，接着重新部署，现在的网站已经可以可以正常运营啦！以后会不定期更新，依旧感谢大家一如既往的支持，除了音乐以外我会更多的分享一些生活和一些有趣的内容，欢迎参观！</p><p>关于公众号……我可能不会很频繁的更新，毕竟公众号无论是从编辑，发布还是从自定义等方面都远不及个人网站来的方便，虽然微信公众号可以影响到更多的读者，但限制还是太多。</p><p>但依旧欢迎关注。</p><p><img src="https://s1.ax1x.com/2020/05/31/t1qgQx.jpg" alt="如果直接识别不成功，请保存到手机相册再识别，感激不尽"></p><p>今天可能暂时写到这里，想到有什么补充再说吧，毕竟没有一天发一次的限制😀</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
-    </summary>
     
     
     
@@ -253,14 +233,12 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="我回来啦！"><a href="#我回来啦！" class="headerlink" title="我回来啦！"></a>我回来啦！</h1><p>​    紧张的八省联考终于结束了……那么，高三上学期的学习生活也即将迎来尾声。时光飞逝，短暂的休息之后即将迎来关键的高三下学期。但说是期末考试结束，也无法松懈，毕竟光上学就还需要上两星期……</p><p>总的来说，还是需要加油加油再加油！</p><p>​    嘶……写这篇的第一感想就是，自己做网页比把东西写进公众号简直方便不少……可以随便修改，随便发布……</p><p>放首歌吧。</p>    <div id="aplayer-OwFfWgIx" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="001ZgD5U2uHBcf" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p>那么，下学期也请加油吧。</p><p><img src="https://s3.ax1x.com/2021/01/25/sLxyRO.jpg" alt="新春快乐！"></p><p>（我记得有什么事要说来的？）</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
-    </summary>
     
     
     
@@ -275,14 +253,12 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="我又回来啦！"><a href="#我又回来啦！" class="headerlink" title="我又回来啦！"></a>我又回来啦！</h1><h2 id="新年快乐！"><a href="#新年快乐！" class="headerlink" title="新年快乐！"></a>新年快乐！</h2><p>上周更新了butterfly主题，结果不知怎么的把网站搞崩了</p><p>现在已经修好啦！</p><p>现在疫情形势严峻，不知春节前是否还会上网课。如果线上授课的话，还会继续更新的</p><p>敬请期待</p><p>毕竟还有好多东西想要分享呢</p><p><img src="https://thumbs.dreamstime.com/z/%E7%AC%AC-%E5%B9%B4%E5%9C%A8%E7%99%BD%E8%89%B2%E7%94%A8%E7%83%A4%E5%92%96%E5%95%A1%E8%B1%86%E8%83%8C%E6%99%AF%EF%BC%8C%E8%AE%BE%E8%AE%A1%E6%96%B0%E5%B9%B4-115466682.jpg" alt=""></p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
-    </summary>
     
     
     
@@ -297,19 +273,17 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="2020-10-30-专辑推荐：《positons》–-Ariana-Grande"><a href="#2020-10-30-专辑推荐：《positons》–-Ariana-Grande" class="headerlink" title="2020/10/30   专辑推荐：《positons》– Ariana Grande"></a>2020/10/30   专辑推荐：《positons》– Ariana Grande</h1>    <div id="aplayer-zvWeqfeV" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="004W2wKc4M67a2" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><div class="note danger flat"><p>由于版权限制，无法在线播放！</p></div><hr><p>美国唱作天后Ariana Grande第六张全新专辑《Positions》正式发布。专辑收录14首歌，助阵阵容包括The Weeknd，Doja Cat，Ty Dolla $ign。专辑上线前一周，同名单曲“positions”发布，一经释出即空降全球，美国，英国，加拿大Spotify冠军，55个iTunes榜首之位。</p><hr><p><img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/f9/26/b6f9263d-5b6f-c469-63fe-4e309f42aa9f/source/3000x3000bb.jpg" alt="《positons》专辑封面"></p>]]></content>
     
-    <summary type="html">
     
-      2020/10/30   专辑推荐：《positons》-- Ariana Grande
-    
-    </summary>
+    <summary type="html">2020/10/30   专辑推荐：《positons》-- Ariana Grande</summary>
     
     
-      <category term="专辑推荐" scheme="http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="专辑推荐" scheme="http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="music" scheme="http://example.com/tags/music/"/>
+    <category term="music" scheme="http://example.com/tags/music/"/>
     
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -322,19 +296,17 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="2020-5-31专辑推荐：《Chromatica》–Lady-Gaga"><a href="#2020-5-31专辑推荐：《Chromatica》–Lady-Gaga" class="headerlink" title="2020/5/31专辑推荐：《Chromatica》–Lady Gaga"></a>2020/5/31专辑推荐：《Chromatica》–Lady Gaga</h1>    <div id="aplayer-uMzOKdjJ" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="000XcLpO2aYB2I" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p><img src="https://s3.ax1x.com/2020/12/13/rmuAhT.jpg" alt="《chromatica》专辑图片"></p><p>​        5月29日，环球音乐旗下流行天后LadyGaga新专辑《Chromatica》在QQ音乐独家首发。融合了电子、摇滚及交响等多种风格，这张“重新定义流行”的专辑一经发售便迅速登顶57个国家及地区专辑榜首!</p><p><img src="https://s3.ax1x.com/2020/12/13/rmuUud.jpg" alt="img"></p><p>​        《Chromatica》是LadyGaga 生涯中<strong>首张全舞曲的专辑</strong>，以表达她对电子音乐绝对的爱意。这是一张关于治愈痛苦的专辑。象征着治愈之旅的开始，人们通过快乐通过舞蹈愈合，在这个“Chromatica”星球，我们是一体的。《Chromatica》此前已在QQ音乐发布三支先导曲，其中<strong>《Rain On me》</strong>由Gaga与同属环球唱片旗下的顶流小天后Ariana Grande共同打造，而<strong>《Sour Candy》</strong>则是与韩国YG旗下宝藏女团BLACKPINK共同演绎。三支单曲发行当日，均取得MV播放次数千万级的优异成绩。</p><p><img src="https://s3.ax1x.com/2020/12/13/rmuaDA.jpg" alt="Chromatica中的造型"></p><p>​        为开拓自己的音乐疆界，Lady Gaga 经历了音乐风格的剧变——在 2016 年的专辑<strong>《Joanne》</strong>中，她几乎完全抛开了流行舞曲风格，转向更为简约的曲风；又在 2018 年的电影<strong>《A Star Is Born》</strong>中化身唱作歌手袒露心声。</p><p>​        如今，她在新专辑<strong>《Chromatica》</strong>中变回了我们熟悉的那个 disco 天后。“我又做了一张舞曲专辑。”她告诉 Apple Music，“这个舞池是属于我 的，是我赢得的。” 专辑由与她合作过《Joanne》的 BloodPop® 担纲制作，构建了一个绿野仙踪式的缤纷虚拟世界，音乐则成为其中的梦幻魔法，为 Gaga 治愈心伤，驱散过往家庭创伤造成的阴霾。但直到接受自己因精神问题和药物成瘾面临的挣扎之后，她才真正感到自己能够摆脱枷锁，再次起舞。</p><p>​        “我不再为过往经历感到痛苦，它们已成为我的一部分，我可以继续前行。”音乐治愈了她， 令她想用新专辑传递充满希望的讯息，让粉丝也能感受这种自由。虽然大多数人还要等上一段时间，才能在舞池里尽情享受新 专辑的音乐，“我已经等不及和大家一起随着这些音乐起舞了。”Gaga 说，“如果你能相信自己，就会发现你已经很棒了。我希望听到这张专辑的人都能感受到这一点。” </p><p>​        这场对精神和意识的疗愈之旅以<strong>《Chromatica I》</strong>展开，肃穆的弦乐编曲带来更具画面感的压迫基调，投射出她感知世界、理解事物的方式。在随后的<strong>《Alice》</strong>中，Gaga 谈及对生活消极一面的感受，即使在下坠，也要继续像爱丽丝般寻找仙境，专辑从这里真正开始。</p><p>​        在<strong>《Free Woman》</strong>里，她勇敢直面自己曾被性侵的经历，但不再把自身定义为幸存者或受害者。“我是一个自由的人，只是经历过一些糟糕的事而已。”<strong>《911》</strong>则描绘了她服用精神抑制药物的经历。</p><p>​        除了回溯过往生活，专辑还包含精彩的合作曲目，有与 Ariana Grande 一同打破舒适区录制而成的<strong>《Rain On Me》</strong>；以及与 Elton John 合作的<strong>《Sine From Above》</strong>，“S-I-N-E （正弦）这个词代表了声波。是上天传来的乐音治愈了我，让我能够通过这张专辑重新起舞，我想要向令我重生的音乐致敬。”Lady Gaga 说。</p><p><img src="https://s1.ax1x.com/2020/05/31/t1qgQx.jpg" alt="欢迎关注"></p>]]></content>
     
-    <summary type="html">
     
-      2020/5/31专辑推荐：《Chromatica》--Lady Gaga
-    
-    </summary>
+    <summary type="html">2020/5/31专辑推荐：《Chromatica》--Lady Gaga</summary>
     
     
-      <category term="专辑推荐" scheme="http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="专辑推荐" scheme="http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="music" scheme="http://example.com/tags/music/"/>
+    <category term="music" scheme="http://example.com/tags/music/"/>
     
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -347,14 +319,12 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="我回来啦！"><a href="#我回来啦！" class="headerlink" title="我回来啦！"></a>我回来啦！</h1><p>经历了期中考试的疯狂摧残，</p><p>我终于回归啦！</p><p>不过马上要开学，所以过段时间也会停更。</p><p>这些天会努力搬运的！</p><p>爱你们！</p><p>2020/5/31更新：</p><p>我又回来了，这次是为了公众号需要音乐播放器代码归来。</p><p>因为网站编辑十分麻烦，所以以后有东西会优先在公众号更新。</p><p>欢迎关注</p><p><img src="https://s1.ax1x.com/2020/05/31/t1qgQx.jpg" alt="欢迎关注"></p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
-    </summary>
     
     
     
@@ -369,19 +339,17 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="2020-4-5-单曲推荐：《ハレハレヤ-朗朗晴天-》–Sou"><a href="#2020-4-5-单曲推荐：《ハレハレヤ-朗朗晴天-》–Sou" class="headerlink" title="2020/4/5  单曲推荐：《ハレハレヤ (朗朗晴天)》–Sou"></a>2020/4/5  单曲推荐：《ハレハレヤ (朗朗晴天)》–Sou</h1><p>来自蒜头小宝贝的投稿（QQ：2067119189）</p>    <div id="aplayer-pcCKYjtH" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="003dL5Lm2j61c4" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><img src="https://y.gtimg.cn/music/photo_new/T001R300x300M000001J7epr0tU6Oa.jpg" style="zoom:200%;" />]]></content>
     
-    <summary type="html">
     
-      2020/4/5  单曲推荐：《ハレハレヤ (朗朗晴天)》--Sou
-    
-    </summary>
+    <summary type="html">2020/4/5  单曲推荐：《ハレハレヤ (朗朗晴天)》--Sou</summary>
     
     
-      <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="music" scheme="http://example.com/tags/music/"/>
+    <category term="music" scheme="http://example.com/tags/music/"/>
     
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -394,19 +362,17 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="2020-4-2-单曲推荐：《Take-Yourself-Home》–Troye-Sivan"><a href="#2020-4-2-单曲推荐：《Take-Yourself-Home》–Troye-Sivan" class="headerlink" title="2020/4/2  单曲推荐：《Take Yourself Home》–Troye Sivan"></a>2020/4/2  单曲推荐：《Take Yourself Home》–Troye Sivan</h1>    <div id="aplayer-RSHJYtzI" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="000pOOc32w0Il9" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p><img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/71/fe/30/71fe3058-7fb4-43dc-597a-e5fb459642f0/source/3000x3000bb.jpg" alt="Take Yourself Home单曲封面"></p>]]></content>
     
-    <summary type="html">
     
-      2020/4/2  单曲推荐：《Take Yourself Home》--Troye Sivan
-    
-    </summary>
+    <summary type="html">2020/4/2  单曲推荐：《Take Yourself Home》--Troye Sivan</summary>
     
     
-      <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="music" scheme="http://example.com/tags/music/"/>
+    <category term="music" scheme="http://example.com/tags/music/"/>
     
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -419,19 +385,17 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="2020-3-25-专辑推荐：《EVERYTHING-IS-LOVE》–-The-Carters"><a href="#2020-3-25-专辑推荐：《EVERYTHING-IS-LOVE》–-The-Carters" class="headerlink" title="2020/3/25   专辑推荐：《EVERYTHING IS LOVE》– The Carters"></a>2020/3/25   专辑推荐：《EVERYTHING IS LOVE》– The Carters</h1>    <div id="aplayer-GXEfvGWu" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="004Eex5s2Rz9S4" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p><img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/9d/3f/f99d3f05-3816-9328-a217-2544adbeb20a/source/3000x3000bb.jpg" alt=""></p>]]></content>
     
-    <summary type="html">
     
-      2020/3/25   专辑推荐：《EVERYTHING IS LOVE》-- The Carters
-    
-    </summary>
+    <summary type="html">2020/3/25   专辑推荐：《EVERYTHING IS LOVE》-- The Carters</summary>
     
     
-      <category term="专辑推荐" scheme="http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="专辑推荐" scheme="http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="music" scheme="http://example.com/tags/music/"/>
+    <category term="music" scheme="http://example.com/tags/music/"/>
     
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -444,19 +408,17 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="2020-3-25-单曲推荐：《Bad-At-Love》–Halsey"><a href="#2020-3-25-单曲推荐：《Bad-At-Love》–Halsey" class="headerlink" title="2020/3/25  单曲推荐：《Bad At Love》–Halsey"></a>2020/3/25  单曲推荐：《Bad At Love》–Halsey</h1>    <div id="aplayer-CebKxHUd" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="003tgriU13C1YI" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p><img src="https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/01/4f/47/014f4727-691e-3a56-f4b5-6e20310dae50/source/3000x3000bb.jpg" alt="Bad At Love单曲封面"></p>]]></content>
     
-    <summary type="html">
     
-      2020/3/25  单曲推荐：《Bad At Love》--Halsey
-    
-    </summary>
+    <summary type="html">2020/3/25  单曲推荐：《Bad At Love》--Halsey</summary>
     
     
-      <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="单曲推荐" scheme="http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="music" scheme="http://example.com/tags/music/"/>
+    <category term="music" scheme="http://example.com/tags/music/"/>
     
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -469,19 +431,17 @@
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="2020-3-24-专辑推荐：《Charli》–-Charli-XCX"><a href="#2020-3-24-专辑推荐：《Charli》–-Charli-XCX" class="headerlink" title="2020/3/24   专辑推荐：《Charli》– Charli XCX"></a>2020/3/24   专辑推荐：《Charli》– Charli XCX</h1>    <div id="aplayer-iEJilWyi" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="004e0Qmi2a6ieA" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FFC8FF"    ></div><p><img src="https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/0d/19/1e/0d191e8c-ca4c-e684-b5ef-4e7a1671566b/source/3000x3000bb.jpg" alt="Charli专辑封面"></p>]]></content>
     
-    <summary type="html">
     
-      2020/3/24   专辑推荐：《Charli》-- Charli XCX
-    
-    </summary>
+    <summary type="html">2020/3/24   专辑推荐：《Charli》-- Charli XCX</summary>
     
     
-      <category term="专辑推荐" scheme="http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="专辑推荐" scheme="http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
     
     
-      <category term="music" scheme="http://example.com/tags/music/"/>
+    <category term="music" scheme="http://example.com/tags/music/"/>
     
-      <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="http://example.com/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
