@@ -1,4 +1,4 @@
-http://example.com/2025/07/23/2507DL-LSTM/
+http://example.com/2025/09/15/250915-SC-1-2/
 http://example.com/2025/07/23/2507DL-RecurrentNN/
 http://example.com/2025/07/11/2507DL-CNN/
 http://example.com/2025/07/10/2507DL-BP/
@@ -55,6 +55,7 @@ http://example.com/tags/game/
 http://example.com/tags/%E6%95%99%E7%A8%8B/
 http://example.com/tags/%E6%97%A5%E5%B8%B8/
 http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/
+http://example.com/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/
 http://example.com/categories/%E5%8D%95%E6%9B%B2%E6%8E%A8%E8%8D%90/
 http://example.com/categories/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/
 http://example.com/categories/%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90/
